@@ -1,0 +1,6 @@
+Accel	KEYWORD1
+init	KEYWORD2
+read	KEYWORD2
+available	KEYWORD2
+readTap	KEYWORD2
+readPL	KEYWORD2

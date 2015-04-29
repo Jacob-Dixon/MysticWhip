@@ -1,0 +1,7 @@
+I2C	KEYWORD1
+begin	KEYWORD2
+writeReg	KEYWORD2
+writeRegs	KEYWORD2
+readReg	KEYWORD2
+readRegs	KEYWORD2
+command	KEYWORD2

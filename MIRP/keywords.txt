@@ -1,0 +1,6 @@
+MIRP	KEYWORD1
+init	KEYWORD2
+send	KEYWORD2
+m_damage	LITERAL1
+m_stun	LITERAL1
+m_heal	LITERAL1

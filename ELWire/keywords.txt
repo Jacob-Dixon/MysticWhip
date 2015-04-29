@@ -1,0 +1,6 @@
+ELWire	KEYWORD1
+init	KEYWORD2
+setColor	KEYWORD2
+setFreq	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
